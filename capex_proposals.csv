@@ -1,0 +1,11 @@
+tower_id,province,lat,lon,current_traffic_gb,population_density_ppkm,household_income_index,competitor_coverage_score,upgrade_cost_million_zar
+T001,Gauteng,-26.2,28.0,2500,10000,0.85,0.2,4.5
+T002,Western Cape,-33.9,18.4,1800,8000,0.78,0.3,5.2
+T003,KwaZulu-Natal,-29.8,30.9,1500,6000,0.65,0.4,3.1
+T004,Gauteng,-26.1,28.1,2800,12000,0.92,0.1,6.8
+T005,Limpopo,-23.1,29.4,800,1500,0.45,0.7,2.8
+T006,Western Cape,-34.0,18.5,2200,9500,0.88,0.25,5.9
+T007,Mpumalanga,-25.4,30.9,1200,3000,0.55,0.6,3.5
+T008,Eastern Cape,-31.8,26.8,900,2000,0.50,0.8,2.2
+T009,Gauteng,-26.0,27.9,3000,15000,0.95,0.1,7.2
+T010,Free State,-29.1,26.2,1000,3500,0.60,0.5,3.9

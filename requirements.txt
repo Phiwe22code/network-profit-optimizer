@@ -1,0 +1,8 @@
+# requirements.txt (Verify this file)
+pandas
+numpy
+scikit-learn
+plotly
+folium
+pulp
+streamlit  # <--- MUST BE PRESENT
